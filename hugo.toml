@@ -4,13 +4,22 @@ title = 'Patchania Events'
 theme = 'coming-soon'
 
 [params]
-    title = "Patchania Events Website COMING SOON!" 
+    title = "Patchania Events Website COMING SOON" 
     description = "Get ready to immerse yourself in vibrant energy. Stay tuned for our launch!"
     favicon = ""
     message = "" 
     release = "October 1, 2025"
     background = ""
     enableVideoSound = true
+
+socialIcons = [
+    {name = "email", url = "info@patchania-events.com"},      
+    {name = "twitter", url = "https://twitter.com/"},    
+    {name = "facebook", url = "https://facebook.com/"},       
+    {name = "instagram", url = "https://instagram.com/"},    
+    {name = "tiktok", url = "https://tiktok.com/"},    
+    {name = "linkedin", url = "https://linkedin.com/"},    
+]
 
 [caches]
   [caches.images]
